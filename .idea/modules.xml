@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Blogsite/.idea/Blogsite.iml" filepath="$PROJECT_DIR$/../Blogsite/.idea/Blogsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/blogproject.iml" filepath="$PROJECT_DIR$/.idea/blogproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cbvfinalproject/.idea/cbvfinalproject.iml" filepath="$PROJECT_DIR$/../cbvfinalproject/.idea/cbvfinalproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Atom/crudSingleURl/.idea/crudSingleURl.iml" filepath="$PROJECT_DIR$/../../Atom/crudSingleURl/.idea/crudSingleURl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Atom/crudapiserialize/.idea/crudapiserialize.iml" filepath="$PROJECT_DIR$/../../Atom/crudapiserialize/.idea/crudapiserialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Atom/crudproject2/.idea/crudproject2.iml" filepath="$PROJECT_DIR$/../../Atom/crudproject2/.idea/crudproject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Atom/studentAPI/.idea/studentAPI.iml" filepath="$PROJECT_DIR$/../../Atom/studentAPI/.idea/studentAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Atom/withoutrest/.idea/withoutrest.iml" filepath="$PROJECT_DIR$/../../Atom/withoutrest/.idea/withoutrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Atom/withoutrest1/.idea/withoutrest1.iml" filepath="$PROJECT_DIR$/../../Atom/withoutrest1/.idea/withoutrest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Atom/withoutrestCRUD/.idea/withoutrestCRUD.iml" filepath="$PROJECT_DIR$/../../Atom/withoutrestCRUD/.idea/withoutrestCRUD.iml" />
+    </modules>
+  </component>
+</project>

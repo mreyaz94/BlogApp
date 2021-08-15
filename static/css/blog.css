@@ -1,0 +1,46 @@
+.content{
+    width:65%;
+    float:left;
+    padding:0 0 0 30px;
+    background:blue;
+    height:100%
+}
+.sidebar{
+    width:35%;
+    float:right;
+    padding:10px;
+    background:orange;
+    hieght:100%;
+}
+h1{
+    text-align:center;
+    border-bottom: 1px solid yellow;
+    padding-bottom: 10px;
+}
+body{
+    color:white;
+    background:blue
+}
+#date{
+    color:yellow;
+    font-size: 12px;
+}
+
+a{
+color:yellow;
+}
+input[type='text']{
+    background:blue;
+    color:white;
+}
+.cform{
+    color:black;
+}
+.tagbox{
+    border:1px solid orange;
+}
+#pcount{
+    font-size: 40px;
+    color: yellow;
+    font-weight:bold;
+}
